@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p1"
+    tools:context=".MainActivity3"
+    android:orientation="vertical">
+
+
+
+
+    <Button
+        android:id="@+id/button38"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="   છંદ સપાખરાં 🎤🪘🎶"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/button43"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="  છંદ ગીત 🎙️🎼🎹 "
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ઝવેરચંદ મેઘાણી ના ગ્રંથો 📚📚"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+
+
+    <Button
+        android:id="@+id/button56"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="કાગ વાણી  🌞 🌝 "
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/button60"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ઇશરદાસજી રચિત હરિરસ ✍🏼"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+    <Button
+        android:id="@+id/button61"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="૨૦૦ ભજન સંગ્રહ 🎼"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/button62"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ચારણ ની અસ્મિતા (પિંગળશી ગઢવી)"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/button63"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="रंग चारण नी रीत (જોગીદાન ગઢવી)"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:textSize="22dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/button64"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="#F48D56"
+        android:text="Devloper 😇💻👨🏻‍💻"
+        android:textSize="22dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p1"
+    tools:context=".MainActivity4">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/button23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સૌરાષ્ટ્રની રસધાર "
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+
+        <Button
+            android:id="@+id/button24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સોરઠી_બહારવટીયા"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+
+        <Button
+            android:id="@+id/button28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સોરઠ_તારાં_વહેતા_પાણી"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સૌરાષ્ટ્રનાં_ખંડેરોમાં"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+
+        <Button
+            android:id="@+id/button30"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સોરઠીયા દુહા"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button31"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સોરઠી સંતો "
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button32"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="સત્યવીર_શ્રદ્ધાનંદ "
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button33"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="વેવિશાળ"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button34"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="શાહજહાં"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button35"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="વેણીનાં_ફુલ"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button36"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="લાલ_કિલ્લાનો_મુકદ્દમો"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button37"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="રા'_ગંગાજળિયો"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button39"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="રસધારની વાર્તાઓ"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+        <Button
+            android:id="@+id/button42"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="રઢિયાળી રાત"
+            android:backgroundTint="#F48D56"
+            android:layout_marginTop="20dp"
+            />
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p1"
+    android:orientation="vertical"
+    tools:context=".sorthi">
+
+    <Button
+        android:id="@+id/button25"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="સોરઠી_બહારવટીયા_1_ઝવેરચંદ_મેઘાણી"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button26"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="સોરઠી_બહારવટીયા_2_ઝવેરચંદ_મેઘાણી"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="સોરઠી_બહારવટીયા_3_ઝવેરચંદ_મેઘાણી"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>

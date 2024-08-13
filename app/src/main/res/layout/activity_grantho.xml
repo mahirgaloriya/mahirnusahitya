@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/p1"
+    android:orientation="vertical"
+    tools:context=".grantho">
+
+    <Button
+        android:id="@+id/button18"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. સૌરાષ્ટ્રની રસધાર ભાગ_૧"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button19"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. સૌરાષ્ટ્રની રસધાર ભાગ_૨"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button20"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. સૌરાષ્ટ્રની રસધાર ભાગ_૩"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. સૌરાષ્ટ્રની રસધાર ભાગ_૪"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/button22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. સૌરાષ્ટ્રની રસધાર ભાગ_૫"
+        android:backgroundTint="#F48D56"
+        android:layout_marginTop="20dp"
+        />
+
+</LinearLayout>

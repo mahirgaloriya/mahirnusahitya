@@ -1,0 +1,82 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.2985" />
+        <entry key="app/src/main/res/layout/activity_aadesh.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_aavmogalaaai.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_bar1.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_bar2.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_bar3.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_bhajanpothi.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_champaraj.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_chamunda.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_charani.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_devloper.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_dwarkadhish.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_gaam.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_ghodas.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_grantho.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_gun1.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_halaji.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_hariras.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_jogidan.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_kag1.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_kag2.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_kag3.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_kaljug.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_kander.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_katarinukirtan.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_khodal.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_lalkillo.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_main6.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_manmor.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_marad.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_maruya.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_mataji1.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_mataji2.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_mogal.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_parmes.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_pingalshi.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_pratapimaa.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_raa.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_raat.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_ram.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_ramavalanorahado.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_rame.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_ras1.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_ras2.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_rasadhar.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sau1.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sau2.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_sau3.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sau4.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sau5.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_savaj.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_shahjahan.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_shiva.xml" value="0.30520833333333336" />
+        <entry key="app/src/main/res/layout/activity_shradhha.xml" value="0.30625" />
+        <entry key="app/src/main/res/layout/activity_someshvar.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sorathtara.xml" value="0.2658959537572254" />
+        <entry key="app/src/main/res/layout/activity_sorthi.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sorthisanto.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_sorthiyaduha.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_varshadnu.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_veni.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/activity_vevishal.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.3203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
